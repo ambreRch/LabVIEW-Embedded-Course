@@ -17,3 +17,4 @@
 *.lvprojstate
 .cache/
 *.UserState
+.DS_Store
